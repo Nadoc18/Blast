@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a196bdd252024d7fa2701981d2960d8b, type: 3}
+  m_Name: Laser Projectile Factory Installer
+  m_EditorClassIdentifier: 
+  _projectileCorePrefabRef: {fileID: 1975075621804630, guid: d44b04f8d51c4c9468fee466ca4eaafa,
+    type: 3}
+  _muzzleFlashPrefabRef: {fileID: 1175721142433744, guid: a120034b0dd7d8d4db404b2d2332a0bc,
+    type: 3}
+  _collisionExplosionPrefabRef: {fileID: 1142420042466600, guid: 14a8239457fa29d4f9ae6ae54c689cc2,
+    type: 3}

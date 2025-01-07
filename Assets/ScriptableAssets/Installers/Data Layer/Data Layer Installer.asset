@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e15432063bc47fe956e282788110ae9, type: 3}
+  m_Name: Data Layer Installer
+  m_EditorClassIdentifier: 
+  _cannonMetadata:
+  - _cannonType: 0
+    _cannonPrefabRef: {fileID: 1451160215310480, guid: 88dffcad53f143243b4b5e219003ba78,
+      type: 3}
+    _cannonPreviewSprite: {fileID: 21300000, guid: 129174f1889ae4fb29671a9d6508eb4c,
+      type: 3}
+  - _cannonType: 1
+    _cannonPrefabRef: {fileID: 1601447511946750, guid: 2e3ec03c884afb84d94ac63eba3dcf96,
+      type: 3}
+    _cannonPreviewSprite: {fileID: 21300000, guid: 7ab7c6d9d45e9488f80d59d2fce0a817,
+      type: 3}
+  - _cannonType: 2
+    _cannonPrefabRef: {fileID: 1771379674837074, guid: b655a1227e76c114e8a2fc8090ff0065,
+      type: 3}
+    _cannonPreviewSprite: {fileID: 21300000, guid: a7aa8c21459624ac5888204af3452e72,
+      type: 3}
+  _gameLevelsMetadata:
+  - _levelType: 2
+    _levelName: Empty Desert
+    _sceneCoverSprite: {fileID: 21300000, guid: c759012636acef34fa3daae28b8edac6,
+      type: 3}
+    _levelSceneBuildIndex: 5
+    _cannonType: 0
+  _infraScreenMetadata:
+  - _type: 1
+    _sceneBuildIndex: 1
+  - _type: 2
+    _sceneBuildIndex: 2
+  - _type: 3
+    _sceneBuildIndex: 3
+  _balances:
+    _coins: 103
+    _gems: 25
